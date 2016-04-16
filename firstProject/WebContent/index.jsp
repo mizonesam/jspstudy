@@ -6,6 +6,6 @@
 <title>Eclipse Jsp Project</title>
 </head>
 <body>
-	<h3>坚韧、博学、创新、笃行！</h3>
+	<h2>坚韧、博学、创新、笃行！</h2>
 </body>
 </html>
